@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
+
+<h1>Cindy Portillo</h1>
+<p>Hello, my name is Cindy Portillo and I enjoy spending time with my family. I enjoy reading books, taking pictures and I like to write. I have a bachlors in Journalism and decided to take this HTML class to learn how to create my own blog and hopefully start blogging and have a website where I can share my photography work.</p>
+<nav>
+    <ul>
+    <li><a href="index.html">home</a></li>
+    <li><a href="about.html">about</a></li>
+        <li<a href="#">school</ul>
+    
+    </nav>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: pink;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+    
