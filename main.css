@@ -1,29 +1,36 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="mystyle.css">
-</head>
-<body>
-
-<h1>Cindy Portillo</h1>
-<p>Hello, my name is Cindy Portillo and I enjoy spending time with my family. I enjoy reading books, taking pictures and I like to write. I have a bachlors in Journalism and decided to take this HTML class to learn how to create my own blog and hopefully start blogging and have a website where I can share my photography work.</p>
-<nav>
-    <ul>
-    <li><a href="index.html">home</a></li>
-    <li><a href="about.html">about</a></li>
-        <li<a href="#">school</ul>
-    
-    </nav>
-body {
-  background-color: lightblue;
+   body {
+        width: 80%
+            background color:#F5F5DC
+            margin:15px auto;
+        border: 1px solid #000000; }
+    main { 
+    width: 66%
+    height: 350px; /* to give the main content some height */
+    border-right: 2px solid #ef9c00;
+    float: left;
+        aside {
+            width: 33%;
+            float: right;}
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+} 
+        #sidebarA {
+            width: 180px; /* to give the sidebar some height for its border */
+            float: left;
+            border right: 2px solid #ef9c00; }
+        main {
+            width: 600px;
+            float: left; }
+        #sidebarB {
+            width: 180px
+                height: 350px /* to give the sidebar some height for its border */
+                float: right;
+            border-left: 2px solid #ef9c00; }
+        #myDIV {
+  color: blue; /* Blue text color */
+  border: 10px solid currentcolor; /* Blue border color */
 }
-
-h1 {
-  color: pink;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
     
