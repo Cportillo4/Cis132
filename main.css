@@ -1,36 +1,48 @@
-   body {
-        width: 80%
-            background color:#F5F5DC
-            margin:15px auto;
-        border: 1px solid #000000; }
-    main { 
-    width: 66%
-    height: 350px; /* to give the main content some height */
-    border-right: 2px solid #ef9c00;
-    float: left;
-        aside {
-            width: 33%;
-            float: right;}
-div {
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
-} 
-        #sidebarA {
-            width: 180px; /* to give the sidebar some height for its border */
-            float: left;
-            border right: 2px solid #ef9c00; }
-        main {
-            width: 600px;
-            float: left; }
-        #sidebarB {
-            width: 180px
-                height: 350px /* to give the sidebar some height for its border */
-                float: right;
-            border-left: 2px solid #ef9c00; }
-        #myDIV {
-  color: blue; /* Blue text color */
-  border: 10px solid currentcolor; /* Blue border color */
+body {
+    margin: 1;
+    padding: 1;
+    background-color:bisque;
+}  
+h1{
+    color:black;
 }
+p{
+    background-color:palegreen;
+    color: black;
+    font-family: fantasy
+}
+
+header {
+    font-family: serif;
+    text-align: center
+}
+.Home {
+    font-weight: bold;
+    text-align: right;
+    background-color: aqua
+}
+.about.html
+        background-color:active;
+        font-family: monospace;
+}
+#p1{
+    color:beige;
+    
+}
+.Photography.html
+         background-color:palegreen;
+    color: black;
+    font-family: fantasy
+}
+
+nav ul li {
+    display: table-footer-group
+        margin-left: 20px;
+}
+main {
+    display: block
+        contents: space 
+        padding: 20px;
+    
+
     
